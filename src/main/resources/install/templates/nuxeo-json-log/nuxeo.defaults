@@ -1,0 +1,6 @@
+## Edit this file to customize your configuration ##
+nuxeo-json-log.target=.
+
+# Set list of templates to include, comma separated values.
+
+# org.nuxeo.ecm.instance.description=Nuxeo ECM customized with Nuxeo JSON Log
